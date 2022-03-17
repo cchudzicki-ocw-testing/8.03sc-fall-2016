@@ -4,6 +4,8 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: b58121fc-044c-a70b-f31e-fe5baa5b87f6
+video_metadata:
+  youtube_id: null
 ---
 
 « [Previous]({{< baseurl >}}/) | {{% resource_link 04ff44e4-0d34-09c8-726b-f5bd29021df8 "Next" %}} »
@@ -24,7 +26,7 @@ What are vibrations? Many physical systems vibrate or oscillate when something d
 
 Extended physical systems that have been made to vibrate, like a string on a guitar, cannot return to their state of equilibrium without exerting forces on the area around them. These forces then lead to the phenomenon of waves, disturbances that propagate through a medium. The vibrating guitar string causes a sound wave to propagate through the medium of the air.
 
-{{< resource 037fe98f-6042-aa45-8d1d-69a7a848669c "Two wave forms (red for electric wave and blue for magnetic wave)." >}}
+{{< resource "037fe98f-6042-aa45-8d1d-69a7a848669c" >}}
 
 Among the most fascinating phenomena examined in the course are electromagnetic (EM) waves. EM waves have many properties similar to the waves we experience in everyday life, but the underlying physics of EM waves is profoundly different. Instead of a local disturbance exerting a force on adjoining regions, changing magnetic fields create electric fields (as quantified by Faraday's Law), and changing electric fields create magnetic fields (as quantified by Maxwell's extension of Ampere's Law).
 
